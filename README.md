@@ -5,4 +5,3 @@
 - The "Summary Tibble" tab displays a summary tibble that contains averages of the columns from the original data per year  
 - The "Visualization" tab contains interactive visualizations that contains data by year and displays data point information when clicked
 
-By: Yogi Patel and Ayan Bhowmick
